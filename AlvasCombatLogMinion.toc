@@ -1,0 +1,6 @@
+## Interface: 100105
+## Title: Alavas Combat Log Minion
+## Notes: Starts advanced combat logging when mythic+ runs start
+## Author: Letimmey (Katla-Gul'Dan)
+
+main.lua
